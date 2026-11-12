@@ -1,4 +1,4 @@
-# COLOSSEUM · Đấu Trường Agent
+# MCP-A2A-Agentic-Routing-Lab
 ### Day 26 · MCP/A2A Infrastructure & Agentic Routing — the competitive lab
 
 > Bản MCP 2026-07-28 đã bỏ handshake. Trong một trận đấu, điều đó còn có nghĩa là **không có
